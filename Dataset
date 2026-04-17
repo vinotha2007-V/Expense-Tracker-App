@@ -1,0 +1,7 @@
+Columns:
+Date
+Category (Food, Rent, Travel, Shopping)
+Amount
+Type (Income/Expense)
+Payment Method
+👉 You can create your own CSV (expenses.csv)
